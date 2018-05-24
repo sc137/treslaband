@@ -1,3 +1,3 @@
-using http://kittenplaceholders.com for now
+using http://placekitten.com for now
 
-![](http://kittenplaceholders.com/800/600)
+![](http://placekitten.com/800/600)
