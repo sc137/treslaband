@@ -15,3 +15,4 @@ You will be able to view this site [here](https://sc137.github.io/treslaband/)
 * upload flyer
 * add to google webmaster
 * add html author headers
+* favicon.ico
