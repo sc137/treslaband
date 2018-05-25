@@ -10,7 +10,7 @@ You will be able to view this site [here](https://sc137.github.io/treslaband/)
 
 * buy domain
 * point domain here with https
-* get band photos in place
+[X] get band photos in place
 * add real text
 * upload flyer
 * add to google webmaster
