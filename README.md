@@ -11,8 +11,10 @@ You will be able to view this site [here](https://sc137.github.io/treslaband/)
 * buy domain
 * point domain here with https
 * [X] get band photos in place
-* add real text
+* add band text
+* [X] add bio text
 * upload flyer
 * add to google webmaster
 * add html author headers
 * favicon.ico
+* add band info to carousel photos
