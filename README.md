@@ -18,4 +18,4 @@ You will be able to view this site [here](https://sc137.github.io/treslaband/)
 * add html author headers
 * favicon.ico
 * add band info to carousel photos
-* upload setlist
+* [X] upload setlist
