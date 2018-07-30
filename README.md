@@ -10,7 +10,7 @@ This is the website of the Tres O.C. band.
 
 * [X] add band text
 * [X] add bio text
-* [X]upload flyer
+* [X] upload flyer
 * add to google webmaster
 * add html author headers
 * favicon.ico
