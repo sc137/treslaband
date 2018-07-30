@@ -1,8 +1,8 @@
 # The Tres O.C. Band Site
 
-This is the beginning of the Tres L.A. band site. URL and more info to come.
+This is the website of the Tres O.C. band.
 
-You will be able to view this site [here](https://sc137.github.io/treslaband/)
+[View this on the web](https://sc137.github.io/tresocband/)
 
 /sable
 
@@ -10,7 +10,7 @@ You will be able to view this site [here](https://sc137.github.io/treslaband/)
 
 * [X] add band text
 * [X] add bio text
-* upload flyer
+* [X]upload flyer
 * add to google webmaster
 * add html author headers
 * favicon.ico
